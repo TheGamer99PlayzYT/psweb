@@ -47,10 +47,13 @@
 
 .topnav h {
   
-  text-align: left;
+  text-align: center;
 
   padding: 14px 16px;
   
   color: white;
+  
+  float: left;
+  
   
  }
